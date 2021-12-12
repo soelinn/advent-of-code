@@ -8,6 +8,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Content Include="inputs\day02.txt" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Compile Include="day01.fsx" />
     <Compile Include="day02.fsx" />
   </ItemGroup>
